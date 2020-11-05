@@ -1,0 +1,1 @@
+\ Core words for MinskyForth.
